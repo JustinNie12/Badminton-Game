@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-02-11T13:37:16.765-06:00
+  initializedAtString: 2021-02-11T13:37:16.765-06:00
+  log:
+  - commitID: deaf2229fe29e293093b5e04fe91c824490a9cc0
+    mergeA: 
+    mergeB: 
+    authorName: JustinNie12
+    authorEmail: 56981336+JustinNie12@users.noreply.github.com
+    commitEmail: 56981336+JustinNie12@users.noreply.github.com
+    commitName: JustinNie12
+    summary: Initial commit
+    description: 
+    timeString: 2021-02-04T12:50:09.000-06:00
+    commitTimeString: 2021-02-04T12:50:09.000-06:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\.gitattributes
+      projectPath: ..\.gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
