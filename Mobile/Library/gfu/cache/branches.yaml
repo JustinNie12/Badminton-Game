@@ -13,10 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-02-11T12:37:10.323-06:00
-  initializedAtString: 2021-02-11T12:37:08.786-06:00
+  lastUpdatedAtString: 2021-02-21T20:44:33.614-06:00
+  initializedAtString: 2021-02-21T20:44:29.464-06:00
   localBranches: []
-  remoteBranches: []
+  remoteBranches:
+  - name: origin/main
+    tracking: '[None]'
   remotes:
   - name: origin
     url: https://github.com/JustinNie12/Badminton-Game.git
@@ -32,9 +34,15 @@ MonoBehaviour:
     keys:
     - origin
     subKeys:
-    - Values: []
+    - Values:
+      - main
     subKeyValues:
-    - Values: []
+    - Values:
+      - name: main
+        remote:
+          name: origin
+          url: https://github.com/JustinNie12/Badminton-Game.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
