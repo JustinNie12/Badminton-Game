@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 663}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 685
-  m_MinSize: {x: 875, y: 663}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 1
-  controlID: 484
+  controlID: 143
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 485
+  controlID: 144
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 486
+  controlID: 60
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -189,7 +189,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 487
+  controlID: 61
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -355,9 +355,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 4eecffff
-      m_LastClickedID: -5042
-      m_ExpandedIDs: 64fbffffde390000f23900001a3a0000
+      m_SelectedIDs: b2450000
+      m_LastClickedID: 17842
+      m_ExpandedIDs: 5af7ffff2cf9ffff76f9ffff9ef9fffff0f9ffff64fbfffff83900007e4400001e450000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -417,9 +417,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 4.540362, y: 0.22297838, z: -12.312342}
+    m_Target: {x: 29.81359, y: -2.8078089, z: 42.904858}
     speed: 2
-    m_Value: {x: 4.857479, y: 0.25869763, z: -12.295561}
+    m_Value: {x: 28.394836, y: -2.868881, z: 42.99553}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -469,9 +469,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 4.455807
+    m_Target: 24.027426
     speed: 2
-    m_Value: 4.6657667
+    m_Value: 25.159609
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -691,20 +691,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Brackeys/2D Mega Pack
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 58
   m_LastFolders:
-  - Assets/Brackeys/2D Mega Pack
+  - Assets/Scenes
   m_LastFoldersGridSize: 58
   m_LastProjectPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 003f0000
-    m_LastClickedID: 16128
-    m_ExpandedIDs: 00000000923a00009a3a0000a43a00007e3b0000803b0000823b0000983b0000b63b0000003f00000e41000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: b63a0000
+    m_LastClickedID: 15030
+    m_ExpandedIDs: 00000000aa3a0000b03a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -732,7 +732,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000923a000000ca9a3b
+    m_ExpandedIDs: 00000000aa3a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
