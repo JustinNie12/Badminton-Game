@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-03-03T08:56:08.742-06:00
-  initializedAtString: 2021-03-03T08:50:59.810-06:00
+  lastUpdatedAtString: 2021-03-07T20:19:17.636-06:00
+  initializedAtString: 2021-03-07T19:56:58.490-06:00
   entries:
   - path: Mobile\Assets\Scenes\Play.unity
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Assets\Scenes\Play.unity
@@ -22,12 +22,72 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Mobile\Assets\Sprites.meta
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Assets\Sprites.meta
+    projectPath: Assets\Sprites.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mobile\Assets\Sprites\fixednet.png
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Assets\Sprites\fixednet.png
+    projectPath: Assets\Sprites\fixednet.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mobile\Assets\Sprites\fixednet.png.meta
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Assets\Sprites\fixednet.png.meta
+    projectPath: Assets\Sprites\fixednet.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mobile\Assets\Sprites\net.png
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Assets\Sprites\net.png
+    projectPath: Assets\Sprites\net.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mobile\Assets\Sprites\net.png.meta
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Assets\Sprites\net.png.meta
+    projectPath: Assets\Sprites\net.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Mobile\Library\ArtifactDB
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Mobile\Library\Artifacts\1c\1cf21f26c7d403059ee4f2b06e5cb064
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\1c\1cf21f26c7d403059ee4f2b06e5cb064
+    projectPath: Library\Artifacts\1c\1cf21f26c7d403059ee4f2b06e5cb064
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mobile\Library\Artifacts\2e\2edea4e489c366777a924f822890a890
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\2e\2edea4e489c366777a924f822890a890
+    projectPath: Library\Artifacts\2e\2edea4e489c366777a924f822890a890
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mobile\Library\Artifacts\76\7668e8b3327f654b1fa24547f92c7b85
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\76\7668e8b3327f654b1fa24547f92c7b85
+    projectPath: Library\Artifacts\76\7668e8b3327f654b1fa24547f92c7b85
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mobile\Library\Artifacts\88\8884d34c81136fe67b7ced5681f5c293
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\88\8884d34c81136fe67b7ced5681f5c293
+    projectPath: Library\Artifacts\88\8884d34c81136fe67b7ced5681f5c293
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mobile\Library\Artifacts\ec\ecb6baaf88f937baf5d24a819583a8f6
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\ec\ecb6baaf88f937baf5d24a819583a8f6
+    projectPath: Library\Artifacts\ec\ecb6baaf88f937baf5d24a819583a8f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Mobile\Library\EditorInstance.json
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
@@ -64,9 +124,33 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Mobile\Library\SceneVisibilityState.asset
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
+  - path: Mobile\Library\ShaderCache\0\06904ce00ff20b4259d64f20d0ec8a50.bin
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\ShaderCache\0\06904ce00ff20b4259d64f20d0ec8a50.bin
+    projectPath: Library\ShaderCache\0\06904ce00ff20b4259d64f20d0ec8a50.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mobile\Library\ShaderCache\1\1d83305c39f2b28171d8784bc8bb873b.bin
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\ShaderCache\1\1d83305c39f2b28171d8784bc8bb873b.bin
+    projectPath: Library\ShaderCache\1\1d83305c39f2b28171d8784bc8bb873b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mobile\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mobile\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mobile\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -76,6 +160,24 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Mobile\Library\StateCache\Hierarchy\f81a67-mainStage.json
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\StateCache\Hierarchy\f81a67-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\f81a67-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mobile\Library\StateCache\SceneView\09df67-mainStage.json
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\StateCache\SceneView\09df67-mainStage.json
+    projectPath: Library\StateCache\SceneView\09df67-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mobile\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Mobile\Temp\UnityLockfile
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
