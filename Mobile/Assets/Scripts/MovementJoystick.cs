@@ -38,6 +38,8 @@ public class MovementJoystick : MonoBehaviour
     }*/
     public void Drag(BaseEventData baseEventData)
     {
+        /*joystick.transform.position.z = -10;
+        joystickBG.transform.position.z = -10;*/
         PointerEventData pointerEventData = baseEventData as PointerEventData;
         Vector2 dragPos = pointerEventData.position;
         joystickVec = (dragPos - joystickTouchPos).normalized;
