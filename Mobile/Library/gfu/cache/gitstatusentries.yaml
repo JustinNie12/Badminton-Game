@@ -13,15 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-03-14T20:34:58.980-05:00
-  initializedAtString: 2021-03-14T20:34:58.980-05:00
+  lastUpdatedAtString: 2021-03-30T21:01:28.709-05:00
+  initializedAtString: 2021-03-30T20:47:47.333-05:00
   entries:
-  - path: Mobile\Assets\Scenes\Play.unity
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Assets\Scenes\Play.unity
-    projectPath: Assets\Scenes\Play.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Mobile\Assets\Scripts\MovementJoystick.cs
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Assets\Scripts\MovementJoystick.cs
     projectPath: Assets\Scripts\MovementJoystick.cs
@@ -34,42 +28,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Mobile\Library\Artifacts\65\65556aeb39af4040b30193b790206182
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\65\65556aeb39af4040b30193b790206182
-    projectPath: Library\Artifacts\65\65556aeb39af4040b30193b790206182
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Mobile\Library\Artifacts\8b\8b1855f7d2843dbd809f8e2e54165743
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\8b\8b1855f7d2843dbd809f8e2e54165743
-    projectPath: Library\Artifacts\8b\8b1855f7d2843dbd809f8e2e54165743
+  - path: Mobile\Library\Artifacts\fe\fe53c501b5b7d66df148624dc2e9f303
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\fe\fe53c501b5b7d66df148624dc2e9f303
+    projectPath: Library\Artifacts\fe\fe53c501b5b7d66df148624dc2e9f303
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Mobile\Library\CrashedAssetImports.txt
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\CrashedAssetImports.txt
-    projectPath: Library\CrashedAssetImports.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Mobile\Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Mobile\Library\CurrentMaximizeLayout.dwlt
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Mobile\Library\EditorInstance.json
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Mobile\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -130,6 +100,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Mobile\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Mobile\Library\SourceAssetDB
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -142,21 +118,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Mobile\Library\StateCache\SceneView\09df67-mainStage.json
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\StateCache\SceneView\09df67-mainStage.json
-    projectPath: Library\StateCache\SceneView\09df67-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Mobile\Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Mobile\Temp\UnityLockfile
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mobile\Temp\UnityTempFile-63db59c82ace5de489297893baba0d8b
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-63db59c82ace5de489297893baba0d8b
+    projectPath: Temp\UnityTempFile-63db59c82ace5de489297893baba0d8b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mobile\Temp\UnityTempFile-ebdf76cf0405aeb4da6497d4baf69373
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-ebdf76cf0405aeb4da6497d4baf69373
+    projectPath: Temp\UnityTempFile-ebdf76cf0405aeb4da6497d4baf69373
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
