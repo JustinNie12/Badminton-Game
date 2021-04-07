@@ -13,6 +13,21 @@ public class Controller : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
 
+
+
+    }
+    void Update()
+    {
+        Vector3 characterScale = transform.localScale;
+        if (Input.GetAxis("Horizontal") < 0)
+        {
+            characterScale.x = -10;
+        }
+        if (Input.GetAxis("Horizontal") < 0)
+        {
+            characterScale.x = 10;
+        }
+        transform.localScale = characterScale;
     }
 
     void FixedUpdate()

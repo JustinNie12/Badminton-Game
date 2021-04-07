@@ -11,25 +11,13 @@ public class MovementJoystick : MonoBehaviour
     private Vector2 joystickTouchPos;
     private Vector2 joystickOriginalPos;
     private float joystickRadius;
+  
 
     // Start is called before the first frame update
     void Start()
     {
         joystickOriginalPos = joystickBG.transform.position;
         joystickRadius = joystickBG.GetComponent<RectTransform>().sizeDelta.y / 4;
-    }
-    void Update()
-    {
-        Vector3 characterScale = transform.localScale;
-        if(Input.GetAxis("Horizontal") < 0)
-        {
-            characterScale.x = -10;
-        }
-        if (Input.GetAxis("Horizontal") < 0)
-        {
-            characterScale.x = 10;
-        }
-        transform.localScale = characterScale;
     }
 
     public void PointerDown()
