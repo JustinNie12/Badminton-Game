@@ -9,6 +9,10 @@ public class JumpButton : MonoBehaviour
     // Start is called before the first frame update
 
     // Update is called once per frame
+    void Start()
+    {
+        rb = GetComponent<Rigidbody2D>();
+    }
   public void Jump()
     {
         rb.velocity = Vector2.up * jumpSpeed;

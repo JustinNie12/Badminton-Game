@@ -9,6 +9,7 @@ public class Controller : MonoBehaviour
     public float playerSpeed;
     private Rigidbody2D rb;
 
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -30,7 +31,7 @@ public class Controller : MonoBehaviour
         transform.localScale = characterScale;
     }
 
-    void FixedUpdate()
+    /*void FixedUpdate()
     {
         if(movementJoystick.joystickVec.y != 0)
         {
@@ -41,7 +42,7 @@ public class Controller : MonoBehaviour
         {
             rb.velocity = Vector2.zero;
         }
-    }
+    }*/
     /*private Rigidbody2D player;
     public float moveForce = 10f;
 
