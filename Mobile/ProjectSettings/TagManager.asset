@@ -7,6 +7,7 @@ TagManager:
   - Joystick
   - Ground
   - Birdie
+  - Racket
   layers:
   - Default
   - TransparentFX

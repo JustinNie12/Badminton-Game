@@ -6,8 +6,8 @@ public class CharacterMovement : MonoBehaviour
 {
     private Rigidbody2D rb;
 
-    private float speed = 2f;
-    private float jumpSpeed = 5f;
+    private float speed = 3f;
+    private float jumpSpeed = 6f;
 
     private bool moveLeft;
     private bool isMoving;
