@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-05-04T21:59:26.127-05:00
-  initializedAtString: 2021-05-04T18:54:10.106-05:00
+  lastUpdatedAtString: 2021-05-11T21:24:07.783-05:00
+  initializedAtString: 2021-05-11T20:57:14.308-05:00
   entries:
   - path: Mobile\Assets\Scenes\Play.unity
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Assets\Scenes\Play.unity
@@ -25,18 +25,6 @@ MonoBehaviour:
   - path: Mobile\Assets\Scripts\Birdie.cs
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Assets\Scripts\Birdie.cs
     projectPath: Assets\Scripts\Birdie.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Assets\Scripts\Birdie.cs.meta
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Assets\Scripts\Birdie.cs.meta
-    projectPath: Assets\Scripts\Birdie.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Assets\Scripts\CharacterMovement.cs
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Assets\Scripts\CharacterMovement.cs
-    projectPath: Assets\Scripts\CharacterMovement.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -50,17 +38,23 @@ MonoBehaviour:
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\08\08acd4e1743c14a830cb87eb04efb210
     projectPath: Library\Artifacts\08\08acd4e1743c14a830cb87eb04efb210
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Mobile\Library\Artifacts\08\08b482a601baf6e08eb8479f0d2867b9
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\08\08b482a601baf6e08eb8479f0d2867b9
     projectPath: Library\Artifacts\08\08b482a601baf6e08eb8479f0d2867b9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Mobile\Library\Artifacts\0c\0cf0a233ab8e9c854dcb87b8afdc74a8
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\0c\0cf0a233ab8e9c854dcb87b8afdc74a8
     projectPath: Library\Artifacts\0c\0cf0a233ab8e9c854dcb87b8afdc74a8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mobile\Library\Artifacts\14\141527a312f78f849f28ca3f3aea4483
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\14\141527a312f78f849f28ca3f3aea4483
+    projectPath: Library\Artifacts\14\141527a312f78f849f28ca3f3aea4483
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -68,101 +62,113 @@ MonoBehaviour:
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\1a\1a4afb9be00c659e84eb18f674106253
     projectPath: Library\Artifacts\1a\1a4afb9be00c659e84eb18f674106253
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Mobile\Library\Artifacts\21\21dad3b42db7402187f8b044aa701e7f
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\21\21dad3b42db7402187f8b044aa701e7f
     projectPath: Library\Artifacts\21\21dad3b42db7402187f8b044aa701e7f
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mobile\Library\Artifacts\27\27c52993180c1b470b6a417b56342071
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\27\27c52993180c1b470b6a417b56342071
+    projectPath: Library\Artifacts\27\27c52993180c1b470b6a417b56342071
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Mobile\Library\Artifacts\2d\2db937dee42a842a4e27a772ac6b0fec
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\2d\2db937dee42a842a4e27a772ac6b0fec
+    projectPath: Library\Artifacts\2d\2db937dee42a842a4e27a772ac6b0fec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mobile\Library\Artifacts\33\33ffcec1e9033802671532d6e050f960
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\33\33ffcec1e9033802671532d6e050f960
+    projectPath: Library\Artifacts\33\33ffcec1e9033802671532d6e050f960
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Mobile\Library\Artifacts\35\35c62a3158d6395821f76cf71779d8ac
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\35\35c62a3158d6395821f76cf71779d8ac
     projectPath: Library\Artifacts\35\35c62a3158d6395821f76cf71779d8ac
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Mobile\Library\Artifacts\3c\3c2623d0349cba3156ac8b4bb9a7a822
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\3c\3c2623d0349cba3156ac8b4bb9a7a822
     projectPath: Library\Artifacts\3c\3c2623d0349cba3156ac8b4bb9a7a822
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Mobile\Library\Artifacts\48\48615c7182dc2020783beab8bb3d71b5
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\48\48615c7182dc2020783beab8bb3d71b5
     projectPath: Library\Artifacts\48\48615c7182dc2020783beab8bb3d71b5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Mobile\Library\Artifacts\4a\4a2a73f1f5d6e074360fcdafc9252487
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\4a\4a2a73f1f5d6e074360fcdafc9252487
     projectPath: Library\Artifacts\4a\4a2a73f1f5d6e074360fcdafc9252487
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Mobile\Library\Artifacts\4a\4ab88f96b63a4b9f2b7f15920a4a08d0
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\4a\4ab88f96b63a4b9f2b7f15920a4a08d0
     projectPath: Library\Artifacts\4a\4ab88f96b63a4b9f2b7f15920a4a08d0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Mobile\Library\Artifacts\56\5642c311fef16e20d96c702fee01a8aa
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\56\5642c311fef16e20d96c702fee01a8aa
     projectPath: Library\Artifacts\56\5642c311fef16e20d96c702fee01a8aa
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Mobile\Library\Artifacts\56\56852ca0200ffc23331202b7416cd4e8
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\56\56852ca0200ffc23331202b7416cd4e8
     projectPath: Library\Artifacts\56\56852ca0200ffc23331202b7416cd4e8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Mobile\Library\Artifacts\6d\6d8f7be06d48197170f07fab39905c66
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\6d\6d8f7be06d48197170f07fab39905c66
     projectPath: Library\Artifacts\6d\6d8f7be06d48197170f07fab39905c66
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Library\Artifacts\82\829f148e082728dac3a1ffb2050cc1c4
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\82\829f148e082728dac3a1ffb2050cc1c4
-    projectPath: Library\Artifacts\82\829f148e082728dac3a1ffb2050cc1c4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Mobile\Library\Artifacts\87\87780079044c60ab0a263ff12734ea24
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\87\87780079044c60ab0a263ff12734ea24
     projectPath: Library\Artifacts\87\87780079044c60ab0a263ff12734ea24
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Mobile\Library\Artifacts\96\96b372cd4196313035f28938fb1278c5
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\96\96b372cd4196313035f28938fb1278c5
     projectPath: Library\Artifacts\96\96b372cd4196313035f28938fb1278c5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Mobile\Library\Artifacts\a2\a25f8f03f00d8399917b41b2a550e6bd
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\a2\a25f8f03f00d8399917b41b2a550e6bd
     projectPath: Library\Artifacts\a2\a25f8f03f00d8399917b41b2a550e6bd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Library\Artifacts\a6\a6f9f18be9b96e8286080d8b7c29ea73
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\a6\a6f9f18be9b96e8286080d8b7c29ea73
-    projectPath: Library\Artifacts\a6\a6f9f18be9b96e8286080d8b7c29ea73
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Mobile\Library\Artifacts\ae\aefba339284bbe584baed69146f09267
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\ae\aefba339284bbe584baed69146f09267
     projectPath: Library\Artifacts\ae\aefba339284bbe584baed69146f09267
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mobile\Library\Artifacts\be\be4b88f815d456a342664e7882cd3ce5
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\be\be4b88f815d456a342664e7882cd3ce5
+    projectPath: Library\Artifacts\be\be4b88f815d456a342664e7882cd3ce5
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Mobile\Library\Artifacts\e1\e1551595177635a8ae28a2960d51056c
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\e1\e1551595177635a8ae28a2960d51056c
-    projectPath: Library\Artifacts\e1\e1551595177635a8ae28a2960d51056c
+  - path: Mobile\Library\Artifacts\c6\c6cc68f400b3944c1f9b5ca7245a418f
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\c6\c6cc68f400b3944c1f9b5ca7245a418f
+    projectPath: Library\Artifacts\c6\c6cc68f400b3944c1f9b5ca7245a418f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -170,14 +176,20 @@ MonoBehaviour:
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\e1\e1ed54bbfd7065453b4e79a24da526b1
     projectPath: Library\Artifacts\e1\e1ed54bbfd7065453b4e79a24da526b1
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mobile\Library\Artifacts\e3\e358f94847e3be86afe72850a4fce013
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\e3\e358f94847e3be86afe72850a4fce013
+    projectPath: Library\Artifacts\e3\e358f94847e3be86afe72850a4fce013
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Mobile\Library\Artifacts\e6\e6463c459ca3b68c72c2846e6e153bc8
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\Artifacts\e6\e6463c459ca3b68c72c2846e6e153bc8
     projectPath: Library\Artifacts\e6\e6463c459ca3b68c72c2846e6e153bc8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Mobile\Library\EditorInstance.json
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
@@ -214,12 +226,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Mobile\Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Mobile\Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -238,18 +244,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Mobile\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Mobile\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Mobile\Library\SourceAssetDB
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -259,12 +253,6 @@ MonoBehaviour:
   - path: Mobile\Library\StateCache\Hierarchy\f81a67-mainStage.json
     fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\StateCache\Hierarchy\f81a67-mainStage.json
     projectPath: Library\StateCache\Hierarchy\f81a67-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Mobile\Library\StateCache\SceneView\09df67-mainStage.json
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Library\StateCache\SceneView\09df67-mainStage.json
-    projectPath: Library\StateCache\SceneView\09df67-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -286,261 +274,69 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-00d105b024cac604e8d1420f1c50a7f4
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-00d105b024cac604e8d1420f1c50a7f4
-    projectPath: Temp\UnityTempFile-00d105b024cac604e8d1420f1c50a7f4
+  - path: Mobile\Temp\UnityTempFile-025d5e87108963d4c94be3b3a1449e05
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-025d5e87108963d4c94be3b3a1449e05
+    projectPath: Temp\UnityTempFile-025d5e87108963d4c94be3b3a1449e05
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-057b874de4ea24340a703cda5eac7d08
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-057b874de4ea24340a703cda5eac7d08
-    projectPath: Temp\UnityTempFile-057b874de4ea24340a703cda5eac7d08
+  - path: Mobile\Temp\UnityTempFile-1a539ffbd1debf543b91965d603206d9
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-1a539ffbd1debf543b91965d603206d9
+    projectPath: Temp\UnityTempFile-1a539ffbd1debf543b91965d603206d9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-167a9b74443498947bf6cef7649bf019
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-167a9b74443498947bf6cef7649bf019
-    projectPath: Temp\UnityTempFile-167a9b74443498947bf6cef7649bf019
+  - path: Mobile\Temp\UnityTempFile-5708277585394f24696db209f7c890d0
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-5708277585394f24696db209f7c890d0
+    projectPath: Temp\UnityTempFile-5708277585394f24696db209f7c890d0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-190657f12d86db64a9570de9b2a7e9fd
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-190657f12d86db64a9570de9b2a7e9fd
-    projectPath: Temp\UnityTempFile-190657f12d86db64a9570de9b2a7e9fd
+  - path: Mobile\Temp\UnityTempFile-821b8c97fb13a4743a8cf23da7d7435d
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-821b8c97fb13a4743a8cf23da7d7435d
+    projectPath: Temp\UnityTempFile-821b8c97fb13a4743a8cf23da7d7435d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-20627479e20aec54a9bf06eabbb1ec18
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-20627479e20aec54a9bf06eabbb1ec18
-    projectPath: Temp\UnityTempFile-20627479e20aec54a9bf06eabbb1ec18
+  - path: Mobile\Temp\UnityTempFile-a1455553d6769ac4089408f876244685
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-a1455553d6769ac4089408f876244685
+    projectPath: Temp\UnityTempFile-a1455553d6769ac4089408f876244685
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-21458e67b076daf40933c09fdb43915a
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-21458e67b076daf40933c09fdb43915a
-    projectPath: Temp\UnityTempFile-21458e67b076daf40933c09fdb43915a
+  - path: Mobile\Temp\UnityTempFile-ada872a922fecf74c92d36dc2d565661
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-ada872a922fecf74c92d36dc2d565661
+    projectPath: Temp\UnityTempFile-ada872a922fecf74c92d36dc2d565661
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-2891348c252a6c64a8a1480da135b33d
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-2891348c252a6c64a8a1480da135b33d
-    projectPath: Temp\UnityTempFile-2891348c252a6c64a8a1480da135b33d
+  - path: Mobile\Temp\UnityTempFile-b227fe46d21b84241b36b9395ee6490a
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-b227fe46d21b84241b36b9395ee6490a
+    projectPath: Temp\UnityTempFile-b227fe46d21b84241b36b9395ee6490a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-29a7a45870a4e1f4b9706ae1400e3e37
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-29a7a45870a4e1f4b9706ae1400e3e37
-    projectPath: Temp\UnityTempFile-29a7a45870a4e1f4b9706ae1400e3e37
+  - path: Mobile\Temp\UnityTempFile-dc1b4ca6cce00c24bb894012b7e8925f
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-dc1b4ca6cce00c24bb894012b7e8925f
+    projectPath: Temp\UnityTempFile-dc1b4ca6cce00c24bb894012b7e8925f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-37111ac196454414cb44d5988a083440
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-37111ac196454414cb44d5988a083440
-    projectPath: Temp\UnityTempFile-37111ac196454414cb44d5988a083440
+  - path: Mobile\Temp\UnityTempFile-f7bc657f1ea8a164fa45e2469e9e4bf3
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-f7bc657f1ea8a164fa45e2469e9e4bf3
+    projectPath: Temp\UnityTempFile-f7bc657f1ea8a164fa45e2469e9e4bf3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-3868d7af1a7f5f94082c485357b95499
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-3868d7af1a7f5f94082c485357b95499
-    projectPath: Temp\UnityTempFile-3868d7af1a7f5f94082c485357b95499
+  - path: Mobile\Temp\UnityTempFile-fa68ba59b3ee25c489142f381dab11ed
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-fa68ba59b3ee25c489142f381dab11ed
+    projectPath: Temp\UnityTempFile-fa68ba59b3ee25c489142f381dab11ed
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-45a258f8305a0b54eaab7099daa9848f
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-45a258f8305a0b54eaab7099daa9848f
-    projectPath: Temp\UnityTempFile-45a258f8305a0b54eaab7099daa9848f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-45a8e740242578448a119c7e98d7a304
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-45a8e740242578448a119c7e98d7a304
-    projectPath: Temp\UnityTempFile-45a8e740242578448a119c7e98d7a304
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-4baac89d274f65743aa1f0a401319813
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-4baac89d274f65743aa1f0a401319813
-    projectPath: Temp\UnityTempFile-4baac89d274f65743aa1f0a401319813
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-4bbd1ff105eb8444dab3a53175dd89e3
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-4bbd1ff105eb8444dab3a53175dd89e3
-    projectPath: Temp\UnityTempFile-4bbd1ff105eb8444dab3a53175dd89e3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-4fc4134ef836c1d4dae5b09ce785e853
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-4fc4134ef836c1d4dae5b09ce785e853
-    projectPath: Temp\UnityTempFile-4fc4134ef836c1d4dae5b09ce785e853
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-500591cf0113dc3468361dacb2f1878b
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-500591cf0113dc3468361dacb2f1878b
-    projectPath: Temp\UnityTempFile-500591cf0113dc3468361dacb2f1878b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-584d64c1e0abf78418e321280662acca
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-584d64c1e0abf78418e321280662acca
-    projectPath: Temp\UnityTempFile-584d64c1e0abf78418e321280662acca
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-5a9b8a028b6dced429c23a1b2efe2b32
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-5a9b8a028b6dced429c23a1b2efe2b32
-    projectPath: Temp\UnityTempFile-5a9b8a028b6dced429c23a1b2efe2b32
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-5d84f0e7b222e4b47bb78df61b9c89e7
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-5d84f0e7b222e4b47bb78df61b9c89e7
-    projectPath: Temp\UnityTempFile-5d84f0e7b222e4b47bb78df61b9c89e7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-72a16501f4b809b46ae17fe13f72a91c
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-72a16501f4b809b46ae17fe13f72a91c
-    projectPath: Temp\UnityTempFile-72a16501f4b809b46ae17fe13f72a91c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-757922b3536984e4ebdf2f617bdc838e
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-757922b3536984e4ebdf2f617bdc838e
-    projectPath: Temp\UnityTempFile-757922b3536984e4ebdf2f617bdc838e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-7d33e15a3db6dbc47b05ae128f2d342c
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-7d33e15a3db6dbc47b05ae128f2d342c
-    projectPath: Temp\UnityTempFile-7d33e15a3db6dbc47b05ae128f2d342c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-804a605d358f3134bbfebe6a03f372e2
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-804a605d358f3134bbfebe6a03f372e2
-    projectPath: Temp\UnityTempFile-804a605d358f3134bbfebe6a03f372e2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-80f510dc4a67d06448f86bcae048613a
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-80f510dc4a67d06448f86bcae048613a
-    projectPath: Temp\UnityTempFile-80f510dc4a67d06448f86bcae048613a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-831f4cbfc5a06b0459010e1577b8d211
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-831f4cbfc5a06b0459010e1577b8d211
-    projectPath: Temp\UnityTempFile-831f4cbfc5a06b0459010e1577b8d211
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-8cb8d5a3ed4cdd54d954996c29340f12
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-8cb8d5a3ed4cdd54d954996c29340f12
-    projectPath: Temp\UnityTempFile-8cb8d5a3ed4cdd54d954996c29340f12
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-90a5f4ced6515da4cb2e63129fee03b7
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-90a5f4ced6515da4cb2e63129fee03b7
-    projectPath: Temp\UnityTempFile-90a5f4ced6515da4cb2e63129fee03b7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-927d0eae24277084090db945d986e91b
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-927d0eae24277084090db945d986e91b
-    projectPath: Temp\UnityTempFile-927d0eae24277084090db945d986e91b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-9968dc2a20a97e64c85144865d32e470
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-9968dc2a20a97e64c85144865d32e470
-    projectPath: Temp\UnityTempFile-9968dc2a20a97e64c85144865d32e470
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-9a95b09e875ca0e48be9b478240a7ed0
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-9a95b09e875ca0e48be9b478240a7ed0
-    projectPath: Temp\UnityTempFile-9a95b09e875ca0e48be9b478240a7ed0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-a28eee984087c384f9ba8959ca65841b
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-a28eee984087c384f9ba8959ca65841b
-    projectPath: Temp\UnityTempFile-a28eee984087c384f9ba8959ca65841b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-b2f360ce0799435428c55a7c608a8808
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-b2f360ce0799435428c55a7c608a8808
-    projectPath: Temp\UnityTempFile-b2f360ce0799435428c55a7c608a8808
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-b9a783fb9c92acb45bb7732c41e875be
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-b9a783fb9c92acb45bb7732c41e875be
-    projectPath: Temp\UnityTempFile-b9a783fb9c92acb45bb7732c41e875be
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-c8ad559f42c4e4a4a93020038785da19
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-c8ad559f42c4e4a4a93020038785da19
-    projectPath: Temp\UnityTempFile-c8ad559f42c4e4a4a93020038785da19
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-cf610474871707542b7e5b3710aadf42
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-cf610474871707542b7e5b3710aadf42
-    projectPath: Temp\UnityTempFile-cf610474871707542b7e5b3710aadf42
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-d1af87e31e252534683209f437182c02
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-d1af87e31e252534683209f437182c02
-    projectPath: Temp\UnityTempFile-d1af87e31e252534683209f437182c02
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-d363e2fc2ad86ef49a3d61238faf7d89
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-d363e2fc2ad86ef49a3d61238faf7d89
-    projectPath: Temp\UnityTempFile-d363e2fc2ad86ef49a3d61238faf7d89
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-d7b8cc8baba6b7a428e5857fb29eea74
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-d7b8cc8baba6b7a428e5857fb29eea74
-    projectPath: Temp\UnityTempFile-d7b8cc8baba6b7a428e5857fb29eea74
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-e3b9de97ef5a6a847aa3add23f609ac6
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-e3b9de97ef5a6a847aa3add23f609ac6
-    projectPath: Temp\UnityTempFile-e3b9de97ef5a6a847aa3add23f609ac6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-e9f7c2d5fd926d14b9c9ba3d14d23bac
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-e9f7c2d5fd926d14b9c9ba3d14d23bac
-    projectPath: Temp\UnityTempFile-e9f7c2d5fd926d14b9c9ba3d14d23bac
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-eed9fdddd0dd94d429c2522475cd3f12
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-eed9fdddd0dd94d429c2522475cd3f12
-    projectPath: Temp\UnityTempFile-eed9fdddd0dd94d429c2522475cd3f12
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-f32813e6138571b4facafdba3fcffd64
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-f32813e6138571b4facafdba3fcffd64
-    projectPath: Temp\UnityTempFile-f32813e6138571b4facafdba3fcffd64
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Mobile\Temp\UnityTempFile-fa2182f4794afbd4f9bff703ce2ebf3b
-    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-fa2182f4794afbd4f9bff703ce2ebf3b
-    projectPath: Temp\UnityTempFile-fa2182f4794afbd4f9bff703ce2ebf3b
+  - path: Mobile\Temp\UnityTempFile-fc18af18f7d1bdc428a617836df52321
+    fullPath: C:\Users\Justin\Documents\GitHub\Badminton-Game\Mobile\Temp\UnityTempFile-fc18af18f7d1bdc428a617836df52321
+    projectPath: Temp\UnityTempFile-fc18af18f7d1bdc428a617836df52321
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

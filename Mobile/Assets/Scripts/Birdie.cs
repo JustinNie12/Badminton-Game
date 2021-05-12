@@ -17,8 +17,14 @@ public class Birdie : MonoBehaviour
         Debug.Log(col.gameObject.tag);
         if(col.gameObject.tag == "Racket")
         {
-            rb.AddForce(new Vector2(force*4,force*7));
+            rb.velocity = Vector2.zero;
+            rb.AddForce(new Vector2(force*7,force*7));
             Debug.Log("Collision went off!");
+        }
+        if(col.gameObject.tag == "Wall")
+        {
+            rb.velocity = Vector2.zero;
+            rb.AddForce(new Vector2(force * -7, force * 7));
         }
     }
 }

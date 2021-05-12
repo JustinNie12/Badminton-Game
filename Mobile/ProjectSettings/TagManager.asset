@@ -8,6 +8,7 @@ TagManager:
   - Ground
   - Birdie
   - Racket
+  - Wall
   layers:
   - Default
   - TransparentFX
